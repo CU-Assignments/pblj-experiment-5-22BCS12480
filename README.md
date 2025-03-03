@@ -1,4 +1,4 @@
-Employee Management System
+**Employee Management System**
 
 This Java application allows users to:
 
@@ -18,7 +18,7 @@ Implements exception handling for file operations.
 
 A simple and efficient way to manage employees using Java serialization.
 
-Student Serialization System
+**Student Serialization System**
 
 This Java program demonstrates object serialization and deserialization for a Student class.
 
